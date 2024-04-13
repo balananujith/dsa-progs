@@ -147,9 +147,13 @@ Inorder Traversal of Binary Tree: 20 30 40 50
 5. Exit
 Enter your choice: 3
 Preorder Traversal of Binary Tree: 30 20 40 50 
-
-
-
+1. Insert Node
+2. Display Inorder Traversal
+3. Display Preorder Traversal
+4. Display Postorder Traversal
+5. Exit
+Enter your choice: 4
+Postorder Traversal of Binary Tree: 20 50 40 30 
 1. Insert Node
 2. Display Inorder Traversal
 3. Display Preorder Traversal
